@@ -18,8 +18,8 @@ reprezinta trecerea efectiva prin vectorul de numere intregi. La inceput, sunt
 initializate registrele eax, ebx si edx cu 0, dupa care sunt mutate in registrele
  eax si ebx, deimpartitul, respectiv impartitorul, astfel:
 
-dword [nums_array + 4*ecx]
-dword [base_array + 4*ecx]
+	dword [nums_array + 4*ecx]
+	dword [base_array + 4*ecx]
 
     - dword se refera la dimensiunea de double word a valorii;
     - base_array/nums_array sunt vectorii respectivi;
