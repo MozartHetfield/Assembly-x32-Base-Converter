@@ -1,15 +1,6 @@
-                                                Assembly x32 Base Converter
-                                           
-    NUME: SOARE ION-ALEXANDRU
-    UNIVERSITATEA: POLITEHNICA DIN BUCURESTI
-    FACULTATEA: AUTOMATICA SI CALCULATOARE, CTI
-    GRUPA SI SERIA: 323 CD
-    AN UNIVERSITAR: 2017-2018
-    PROFESOR COORDONATOR: VOICHITA IANCU
-
 BASE CONVERTER
 	
-Tema realizeaza transformarea unor numere intregi, pozitive, pe 32 de biti,
+Proiectul realizeaza transformarea unor numere intregi, pozitive, pe 32 de biti,
 intr-o alta baza din intervalul [2, 16]. In cadrul temei au fost folosite doar
 registre extended (deoarece toate numerele, atat dimensiunile vectorilor, cat si
 vectorii in sine, sunt de tip double word -dd).
